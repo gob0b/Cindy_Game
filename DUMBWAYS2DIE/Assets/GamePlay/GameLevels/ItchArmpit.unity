@@ -2169,7 +2169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeLimit: 10
-  requiredSwipes: 5
+  requiredSwipes: 15
   winScene: PickNose
   loseScene: test 1
   slider: {fileID: 228829490}

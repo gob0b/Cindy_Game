@@ -32,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GamePlay/GameLevels/TOW.unity
     guid: b3bbf352ddd5d5a4189a993455f99822
+  - enabled: 1
+    path: Assets/GamePlay/GameLevels/SpellingBee.unity
+    guid: 7a3aed0d011ff6c4da039b546a530df1
+  - enabled: 1
+    path: Assets/GamePlay/GameLevels/ToeNails.unity
+    guid: 22ef664a435701e4a8f0efcc8a83cec7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

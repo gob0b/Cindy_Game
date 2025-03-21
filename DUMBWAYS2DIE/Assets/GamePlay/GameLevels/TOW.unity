@@ -1452,7 +1452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeLimit: 10
   opponentSpeed: 0.7
-  winScene: test
+  winScene: sPELLINGbEE
   loseScene: test 1
   slider: {fileID: 1852077221}
   countdownText: {fileID: 1041530317}
