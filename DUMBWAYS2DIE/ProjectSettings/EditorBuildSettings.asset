@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game/Loading Screen.unity
     guid: 4f6ba29fec60e414f88eb46bdd0eeea4
+  - enabled: 1
+    path: Assets/GamePlay/ScriptsForGame/test 1.unity
+    guid: b22c49668d05be143a7459b043928f4f
+  - enabled: 1
+    path: Assets/GamePlay/ScriptsForGame/test.unity
+    guid: 10871e18335b25b4bafb2b06136ef36b
+  - enabled: 1
+    path: Assets/GamePlay/LevellOne.unity
+    guid: 3809b8d608375e042b378766d527b2ad
+  - enabled: 1
+    path: Assets/GamePlay/LevellTwo.unity
+    guid: 32741cf1ff9836840aa890a44c5542bb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
