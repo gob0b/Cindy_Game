@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ab23ba67671b0e34980d1f3fa560898c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tvMaterial: {fileID: 2100000, guid: bd24017a5df2cfc42a685babd06d0e11, type: 2}
+  - startButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
