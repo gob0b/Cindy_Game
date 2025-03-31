@@ -1227,7 +1227,7 @@ MonoBehaviour:
   requiredPresses: 10
   timeLimit: 5
   startDelay: 3
-  winScene: PullTeeth
+  winScene: 
   loseScene: test 1
   timerBar: {fileID: 1199684541}
   pressButton: {fileID: 450545558}
